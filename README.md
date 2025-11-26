@@ -41,7 +41,7 @@ Clone o repositório
 
 Bash
 
-git clone [https://github.com/SEU_USUARIO/weather-app-react-native.git](https://github.com/SEU_USUARIO/weather-app-react-native.git)
+git clone https://github.com/Zacksyg/Weather_App/
 cd weather-app-react-native
 Instale as dependências
 
